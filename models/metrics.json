@@ -1,0 +1,17 @@
+{
+    "Skipgram": {
+        "window_size": 2,
+        "training_loss": 6.114303640402771,
+        "training_time": 34385.59635567665
+    },
+    "SkipgramNeg": {
+        "window_size": 2,
+        "training_loss": 1.9767129061761906,
+        "training_time": 1227.3320050239563
+    },
+    "GloVe": {
+        "window_size": 2,
+        "training_loss": 38.933884447506124,
+        "training_time": 1147.9641027450562
+    }
+}
